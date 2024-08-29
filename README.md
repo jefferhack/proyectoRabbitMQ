@@ -1,0 +1,1 @@
+#DiplomadoArq2024 Este ejercicio basico tiene un producer que se encarga de generar diferentes tareas, por medio de rabbitMq el o los consumidores suscritos a la cola "tarea" podran recibir las diferentes tareas. 
